@@ -1,3 +1,3 @@
 # artistmanav
-This is great repository
+This is my first git  repository<b>
 Author-manav ghatol
